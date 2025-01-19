@@ -1,0 +1,1 @@
+Você pode assistir as aulas do projeto através[DESSE LINK](https://cursos.alura.com.br/course/javascript-metodos-array)
